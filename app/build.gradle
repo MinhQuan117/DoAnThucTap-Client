@@ -1,0 +1,78 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.example.duanthuctap'
+    compileSdk 33
+
+    defaultConfig {
+        applicationId "com.example.duanthuctap"
+        minSdk 24
+        targetSdk 33
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'com.google.android.material:material:1.10.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.5'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+
+    //Glide4
+    implementation 'com.github.bumptech.glide:glide:4.5.0'
+
+    //retrofit
+    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+    //Gson
+    implementation 'com.google.code.gson:gson:2.9.0'
+
+    //circleindicator
+    implementation 'me.relex:circleindicator:2.1.6'
+
+    //bottom
+    implementation 'com.etebarian:meow-bottom-navigation:1.2.0'
+
+    //circle Imageview
+    implementation 'de.hdodenhof:circleimageview:3.1.0'
+
+    //expandableTextview
+    implementation 'io.github.glailton.expandabletextview:expandabletextview:1.0.3'
+
+    //tedpermision
+    implementation 'io.github.ParkSangGwon:tedpermission-normal:3.3.0'
+
+    //tedbottompicker
+    implementation 'gun0912.ted:tedbottompicker:1.2.6'
+
+    //okhttp3
+    implementation 'com.squareup.okhttp3:logging-interceptor:4.9.0'
+
+    //fbutton
+    implementation 'com.github.clans:fab:1.6.4'
+
+    //swipe delete
+    implementation 'com.chauthai.swipereveallayout:swipe-reveal-layout:1.4.1'
+
+
+    //firebase
+}
