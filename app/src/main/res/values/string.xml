@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StyleZone</string>
+    <string name="todo">todo</string>
+    <string name="ang_t_i_d_li_u">   Đang tải dữ liệu...</string>
+    <string name="title_home">Trang chủ</string>
+    <string name="danh_m_c">Danh mục</string>
+    <string name="danh_m_c1">Danh mục(mở rộng)</string>
+    <string name="showInfo">Chi tiết</string>
+    <string name="title_settings">Thiết lập</string>
+    <string name="title_mess">Liên hệ</string>
+    <string name="title_notify">Thông báo</string>
+    <string name="title_cob">Yêu cầu hủy đơn</string>
+    <string name="title_ex_bill">Chi tiết hóa đơn</string>
+    <string name="title_bill_1">Đơn mua</string>
+    <string name="title_method_shipping">Phương thức vận chuyển</string>
+    <string name="title_method_payment">Hình thức thanh toán</string>
+    <string name="title_buy">Đặt hàng</string>
+    <string name="title_user">Thông tin tài khoản</string>
+    <string name="title_address">Cập nhật địa chỉ</string>
+    <string name="title_choose_address_pay">Chọn địa chỉ giao hàng</string>
+    <string name="title_add_address">Thêm địa chỉ mới</string>
+    <string name="title_uppdate_address">Sửa địa chỉ</string>
+    <string name="title_choose_address">Chọn vị trí</string>
+    <string name="title_favourite">Sản phẩm yêu thích</string>
+    <string name="title_password">Thay đổi mật khẩu</string>
+    <string name="title_event">Ngày hội mua sắm</string>
+    <string name="title_cart">Giỏ hàng</string>
+    <string name="title_bill">Thông tin đơn</string>
+    <string name="title_search">Tìm kiếm sản phẩm</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="x_c_nh_n_th_m">Xác nhận thêm</string>
+    <string name="addcart">Thêm vào giỏ</string>
+    <string name="b_n_c_th_t_y_ch_n_s_l_ng_tr_c_khi_th_m_sau_khi_th_m_th_ng_tin_v_s_n_ph_m_s_c_chuy_n_n_ph_n_gi_h_ng_c_a_b_n">Bạn có thể tùy chọn số lượng trước khi thêm. Sau khi thêm, thông tin về sản phẩm sẽ được chuyển đến phần giỏ hàng của bạn.</string>
+    <string name="mua_ngay">Mua ngay</string>
+    <string name="review">Đánh giá của bạn</string>
+    <string name="tv_gui">Gửi</string>
+    <string name="tv_vietreview">Viết nhận xét ...</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
