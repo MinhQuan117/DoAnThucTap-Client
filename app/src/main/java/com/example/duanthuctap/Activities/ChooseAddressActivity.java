@@ -18,7 +18,9 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 
+import com.example.duanthuctap.Adapter.DistrictAdapter;
 import com.example.duanthuctap.Adapter.ProvinceAdapter;
+import com.example.duanthuctap.Adapter.WardAdapter;
 import com.example.duanthuctap.Api.ApiService;
 import com.example.duanthuctap.Models.District;
 import com.example.duanthuctap.Models.Province;

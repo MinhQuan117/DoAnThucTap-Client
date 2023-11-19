@@ -2,10 +2,13 @@ package com.example.duanthuctap.Tools;
 
 import android.content.Context;
 
-import com.example.mob104_app.Models.Address;
-import com.example.mob104_app.Models.District;
-import com.example.mob104_app.Models.Province;
-import com.example.mob104_app.Models.Ward;
+
+import com.example.duanthuctap.Models.Address;
+import com.example.duanthuctap.Models.District;
+import com.example.duanthuctap.Models.Province;
+import com.example.duanthuctap.Models.Ward;
+
+import java.util.List;
 
 public class ADDRESS {
     public static Province province = null;
