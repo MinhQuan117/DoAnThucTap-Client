@@ -1,18 +1,18 @@
 package com.example.duanthuctap.Api;
 
-import com.example.mob104_app.Models.Address;
-import com.example.mob104_app.Models.Banner;
-import com.example.mob104_app.Models.Bill;
-import com.example.mob104_app.Models.Cart;
-import com.example.mob104_app.Models.Category;
-import com.example.mob104_app.Models.District;
-import com.example.mob104_app.Models.Favourite;
-import com.example.mob104_app.Models.Notify;
-import com.example.mob104_app.Models.Product;
-import com.example.mob104_app.Models.Province;
-import com.example.mob104_app.Models.User;
-import com.example.mob104_app.Models.Ward;
-import com.example.mob104_app.Tools.TOOLS;
+
+import com.example.duanthuctap.Models.Address;
+import com.example.duanthuctap.Models.Banner;
+import com.example.duanthuctap.Models.Bill;
+import com.example.duanthuctap.Models.Cart;
+import com.example.duanthuctap.Models.Category;
+import com.example.duanthuctap.Models.District;
+import com.example.duanthuctap.Models.Favourite;
+import com.example.duanthuctap.Models.Notify;
+import com.example.duanthuctap.Models.Product;
+import com.example.duanthuctap.Models.Province;
+import com.example.duanthuctap.Models.User;
+import com.example.duanthuctap.Models.Ward;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
@@ -125,7 +125,7 @@ public interface ApiService {
     Call<Integer> deleteCart(@Path("id_cart") String id_cart);
 
     @POST("bill/add/{token}")
-    Call<Bill> createBill(@Path("token") String token_device,@Body Bill bill);
+    Call<Bill> createBill(@Path("token") String token_device, @Body Bill bill);
 
     @GET("bill/{id_user}")
     Call<List<Bill>> getBill(@Path("id_user") String id_user);
