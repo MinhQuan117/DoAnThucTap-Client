@@ -17,9 +17,7 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.ContextCompat;
 
-import com.example.mob104_app.Api.ApiService;
-import com.example.mob104_app.R;
-import com.example.mob104_app.Tools.TOOLS;
+
 import com.github.clans.fab.FloatingActionButton;
 import com.google.android.material.textfield.TextInputLayout;
 import com.gun0912.tedpermission.PermissionListener;

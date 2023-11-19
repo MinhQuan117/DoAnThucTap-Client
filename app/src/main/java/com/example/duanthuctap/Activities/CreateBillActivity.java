@@ -28,18 +28,7 @@ import androidx.recyclerview.widget.DividerItemDecoration;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.mob104_app.Adapter.CartAdapter;
-import com.example.mob104_app.Api.ApiService;
-import com.example.mob104_app.Models.Address;
-import com.example.mob104_app.Models.Bill;
-import com.example.mob104_app.Models.MethodPayment;
-import com.example.mob104_app.Models.MethodShipping;
-import com.example.mob104_app.R;
-import com.example.mob104_app.Tools.ACCOUNT;
-import com.example.mob104_app.Tools.ADDRESS;
-import com.example.mob104_app.Tools.LIST;
-import com.example.mob104_app.Tools.TOOLS;
-import com.example.mob104_app.UI.CartFragment;
+
 
 import java.util.Objects;
 

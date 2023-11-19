@@ -12,12 +12,7 @@ import androidx.recyclerview.widget.DividerItemDecoration;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.mob104_app.Adapter.FavouriteAdapter;
-import com.example.mob104_app.Api.ApiService;
-import com.example.mob104_app.Models.Product;
-import com.example.mob104_app.R;
-import com.example.mob104_app.Tools.ACCOUNT;
-import com.example.mob104_app.Tools.LIST;
+
 
 import java.util.List;
 import java.util.Objects;

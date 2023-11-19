@@ -17,15 +17,7 @@ import androidx.recyclerview.widget.DividerItemDecoration;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.mob104_app.Adapter.DistrictAdapter;
-import com.example.mob104_app.Adapter.ProvinceAdapter;
-import com.example.mob104_app.Adapter.WardAdapter;
-import com.example.mob104_app.Api.ApiService;
-import com.example.mob104_app.Models.District;
-import com.example.mob104_app.Models.Province;
-import com.example.mob104_app.Models.Ward;
-import com.example.mob104_app.R;
-import com.example.mob104_app.Tools.ADDRESS;
+
 
 import java.util.List;
 import java.util.Objects;

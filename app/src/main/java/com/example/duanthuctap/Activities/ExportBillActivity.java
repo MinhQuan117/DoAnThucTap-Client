@@ -17,11 +17,6 @@ import androidx.recyclerview.widget.DividerItemDecoration;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.mob104_app.Adapter.CartAdapter;
-import com.example.mob104_app.Models.Bill;
-import com.example.mob104_app.Models.Cart;
-import com.example.mob104_app.R;
-import com.example.mob104_app.Tools.TOOLS;
 
 import java.util.List;
 import java.util.Objects;

@@ -14,10 +14,6 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 import androidx.core.content.ContextCompat;
 
-import com.example.mob104_app.Api.ApiService;
-import com.example.mob104_app.R;
-import com.example.mob104_app.Tools.ACCOUNT;
-import com.example.mob104_app.Tools.TOOLS;
 import com.google.android.material.textfield.TextInputLayout;
 
 import org.json.JSONException;
