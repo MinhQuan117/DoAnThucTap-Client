@@ -16,15 +16,8 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.bumptech.glide.Glide;
-import com.example.mob104_app.Api.ApiService;
-import com.example.mob104_app.Models.Address;
-import com.example.mob104_app.Models.Banner;
-import com.example.mob104_app.Models.Category;
-import com.example.mob104_app.Models.Product;
-import com.example.mob104_app.R;
-import com.example.mob104_app.Tools.ACCOUNT;
-import com.example.mob104_app.Tools.LIST;
-import com.example.mob104_app.Tools.TOOLS;
+import com.example.duanthuctap.R;
+
 
 import java.util.Collections;
 import java.util.List;
