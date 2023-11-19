@@ -12,6 +12,8 @@ import androidx.recyclerview.widget.RecyclerView;
 
 
 import com.example.duanthuctap.Models.District;
+import com.example.duanthuctap.R;
+import com.example.duanthuctap.Tools.ADDRESS;
 
 import java.util.List;
 

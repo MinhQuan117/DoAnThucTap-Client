@@ -11,7 +11,9 @@ import androidx.recyclerview.widget.DividerItemDecoration;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.example.duanthuctap.Adapter.MethodPaymentAdapter;
 import com.example.duanthuctap.R;
+import com.example.duanthuctap.Tools.LIST;
 
 import java.util.Objects;
 

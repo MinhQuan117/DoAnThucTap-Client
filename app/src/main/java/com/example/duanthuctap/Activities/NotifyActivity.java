@@ -18,7 +18,12 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 
+import com.example.duanthuctap.Adapter.NotifyAdapter;
+import com.example.duanthuctap.Api.ApiService;
+import com.example.duanthuctap.Models.Notify;
 import com.example.duanthuctap.R;
+import com.example.duanthuctap.Tools.ACCOUNT;
+import com.example.duanthuctap.Tools.TOOLS;
 
 import java.util.Collections;
 import java.util.List;
