@@ -18,6 +18,12 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 
+import com.example.duanthuctap.Adapter.CartAdapter;
+import com.example.duanthuctap.Models.Bill;
+import com.example.duanthuctap.Models.Cart;
+import com.example.duanthuctap.R;
+import com.example.duanthuctap.Tools.TOOLS;
+
 import java.util.List;
 import java.util.Objects;
 

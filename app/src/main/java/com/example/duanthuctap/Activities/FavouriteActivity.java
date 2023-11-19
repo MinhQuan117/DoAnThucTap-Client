@@ -13,6 +13,12 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 
+import com.example.duanthuctap.Adapter.FavouriteAdapter;
+import com.example.duanthuctap.Api.ApiService;
+import com.example.duanthuctap.Models.Product;
+import com.example.duanthuctap.R;
+import com.example.duanthuctap.Tools.ACCOUNT;
+import com.example.duanthuctap.Tools.LIST;
 
 import java.util.List;
 import java.util.Objects;

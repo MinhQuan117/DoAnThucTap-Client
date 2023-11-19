@@ -20,6 +20,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
 import com.example.duanthuctap.Models.Product;
+import com.example.duanthuctap.R;
 
 
 import java.util.ArrayList;

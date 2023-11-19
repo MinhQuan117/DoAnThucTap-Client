@@ -15,6 +15,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 
 import com.example.duanthuctap.Models.Notify;
+import com.example.duanthuctap.R;
 
 import java.util.List;
 
