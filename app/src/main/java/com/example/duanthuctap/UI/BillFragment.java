@@ -19,15 +19,14 @@ import androidx.recyclerview.widget.DividerItemDecoration;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.mob104_app.Activities.BillActivity;
-import com.example.mob104_app.Activities.LoginActivity;
-import com.example.mob104_app.Adapter.FavouriteAdapter;
-import com.example.mob104_app.Api.ApiService;
-import com.example.mob104_app.Models.Bill;
-import com.example.mob104_app.R;
-import com.example.mob104_app.Tools.ACCOUNT;
-import com.example.mob104_app.Tools.LIST;
-import com.example.mob104_app.Tools.TOOLS;
+import com.example.duanthuctap.Activities.LoginActivity;
+import com.example.duanthuctap.Adapter.FavouriteAdapter;
+import com.example.duanthuctap.Api.ApiService;
+import com.example.duanthuctap.Models.Bill;
+import com.example.duanthuctap.R;
+import com.example.duanthuctap.Tools.ACCOUNT;
+import com.example.duanthuctap.Tools.LIST;
+import com.example.duanthuctap.Tools.TOOLS;
 
 import java.util.List;
 import java.util.Objects;
