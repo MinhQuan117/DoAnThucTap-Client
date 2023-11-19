@@ -17,6 +17,8 @@ import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
 
 import com.example.duanthuctap.R;
+import com.example.duanthuctap.UI.BillFragment;
+import com.example.duanthuctap.UI.CartFragment;
 
 
 public class MainActivity extends AppCompatActivity {
