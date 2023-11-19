@@ -24,18 +24,19 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 
 import com.bumptech.glide.Glide;
-import com.example.mob104_app.Activities.AddressActivity;
-import com.example.mob104_app.Activities.FavouriteActivity;
-import com.example.mob104_app.Activities.LoginActivity;
-import com.example.mob104_app.Activities.PasswordActivity;
-import com.example.mob104_app.Activities.UserActivity;
-import com.example.mob104_app.Api.ApiService;
-import com.example.mob104_app.Models.User;
-import com.example.mob104_app.R;
-import com.example.mob104_app.Tools.ACCOUNT;
-import com.example.mob104_app.Tools.ADDRESS;
-import com.example.mob104_app.Tools.LIST;
-import com.example.mob104_app.Tools.TOOLS;
+
+import com.example.duanthuctap.Activities.AddressActivity;
+import com.example.duanthuctap.Activities.FavouriteActivity;
+import com.example.duanthuctap.Activities.LoginActivity;
+import com.example.duanthuctap.Activities.PasswordActivity;
+import com.example.duanthuctap.Activities.UserActivity;
+import com.example.duanthuctap.Api.ApiService;
+import com.example.duanthuctap.Models.User;
+import com.example.duanthuctap.R;
+import com.example.duanthuctap.Tools.ACCOUNT;
+import com.example.duanthuctap.Tools.ADDRESS;
+import com.example.duanthuctap.Tools.LIST;
+import com.example.duanthuctap.Tools.TOOLS;
 import com.gun0912.tedpermission.PermissionListener;
 import com.gun0912.tedpermission.normal.TedPermission;
 
@@ -48,7 +49,6 @@ import java.util.List;
 import java.util.Objects;
 
 import de.hdodenhof.circleimageview.CircleImageView;
-import gun0912.tedbottompicker.TedBottomPicker;
 import okhttp3.MediaType;
 import okhttp3.MultipartBody;
 import okhttp3.RequestBody;

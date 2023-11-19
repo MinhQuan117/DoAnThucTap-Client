@@ -30,11 +30,11 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewpager2.widget.ViewPager2;
 
-import com.example.mob104_app.Adapter.BannerAdapter;
-import com.example.mob104_app.Adapter.CategoryAdapter;
-import com.example.mob104_app.Adapter.ProductAdapter;
-import com.example.mob104_app.R;
-import com.example.mob104_app.Tools.LIST;
+import com.example.duanthuctap.Adapter.BannerAdapter;
+import com.example.duanthuctap.Adapter.CategoryAdapter;
+import com.example.duanthuctap.Adapter.ProductAdapter;
+import com.example.duanthuctap.R;
+import com.example.duanthuctap.Tools.LIST;
 import com.gun0912.tedpermission.PermissionListener;
 import com.gun0912.tedpermission.normal.TedPermission;
 
