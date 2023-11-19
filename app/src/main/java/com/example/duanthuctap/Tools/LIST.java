@@ -1,14 +1,13 @@
 package com.example.duanthuctap.Tools;
 
-import com.example.mob104_app.Models.Address;
-import com.example.mob104_app.Models.Banner;
-import com.example.mob104_app.Models.Bill;
-import com.example.mob104_app.Models.Cart;
-import com.example.mob104_app.Models.Category;
-import com.example.mob104_app.Models.MethodPayment;
-import com.example.mob104_app.Models.MethodShipping;
-import com.example.mob104_app.Models.Product;
-import com.example.mob104_app.R;
+import com.example.duanthuctap.Models.Address;
+import com.example.duanthuctap.Models.Banner;
+import com.example.duanthuctap.Models.Bill;
+import com.example.duanthuctap.Models.Cart;
+import com.example.duanthuctap.Models.Category;
+import com.example.duanthuctap.Models.MethodPayment;
+import com.example.duanthuctap.Models.MethodShipping;
+import com.example.duanthuctap.Models.Product;
 
 import java.util.ArrayList;
 import java.util.List;
