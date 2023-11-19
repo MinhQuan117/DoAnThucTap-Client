@@ -12,12 +12,8 @@ import androidx.appcompat.widget.Toolbar;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.mob104_app.Adapter.ProductAdapter;
-import com.example.mob104_app.Api.ApiService;
-import com.example.mob104_app.Models.Category;
-import com.example.mob104_app.Models.Product;
-import com.example.mob104_app.R;
-import com.example.mob104_app.Tools.LIST;
+
+import com.example.duanthuctap.R;
 
 import java.util.List;
 import java.util.Objects;
